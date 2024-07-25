@@ -6,6 +6,7 @@
 - ❤ Sou apaixonada por Música, Coisas Geek e gatos.
 - 🎓 Estudando Logica computacional 
 - 😄 Pronouns: ela/dela
+- ⭐"Então eu me sinto feliz, e todas as estrelas riem docemente"⭐
 
   
 
