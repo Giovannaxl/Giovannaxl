@@ -4,8 +4,9 @@
 
 - 🔭 Aluna do SESI-PE. Cursando Desenvolvimento de Sistemas
 - ❤ Sou apaixonada por Música, Coisas Geek e gatos.
-- 🌱 Estudando Logica computacional 
+- 🎓 Estudando Logica computacional 
 - 😄 Pronouns: ela/dela
+
   
 
 ### 🏆 Tecnologias
