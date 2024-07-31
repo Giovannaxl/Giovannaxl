@@ -1,5 +1,5 @@
 ### Olá, Eu sou Giovanna Andrade!
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yuriiborr)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/giovanna.xly)
 
 ##
 
