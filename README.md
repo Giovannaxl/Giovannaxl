@@ -1,4 +1,5 @@
 ### Olá, Eu sou Giovanna Andrade!
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yuriiborr)
 
 ##
 
@@ -22,5 +23,8 @@
   <img align="center" alt="Thallyta-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
 </div>
+
+![Giovanna GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovannaxl&show_icons=true&theme=dracula)
+
 
   
