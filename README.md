@@ -9,6 +9,8 @@
 - 😄 Pronouns: ela/dela
 - ⭐"Então eu me sinto feliz, e todas as estrelas riem docemente"⭐
 
+![Giovanna GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovannaxl&show_icons=true&theme=dracula)
+
   
 
 ### 🏆 Tecnologias
@@ -23,8 +25,6 @@
   <img align="center" alt="Thallyta-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
 </div>
-
-![Giovanna GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovannaxl&show_icons=true&theme=dracula)
 
 
   
