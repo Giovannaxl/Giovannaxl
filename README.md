@@ -9,9 +9,17 @@
 - 😄 Pronouns: ela/dela
 - ⭐"Então eu me sinto feliz, e todas as estrelas riem docemente"⭐
 
+<td>
+      <img
+        align="right"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovannaxl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+
+
 ![Giovanna GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovannaxl&show_icons=true&theme=dracula)
 
-  
 
 ### 🏆 Tecnologias
   
